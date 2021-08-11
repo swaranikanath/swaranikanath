@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @swaranikanath
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in music
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on my files that i have made and the new ones
+- 📫 How to reach me..? My email is swaranikanath@yahoo.com
 
-<!---
-swaranikanath/swaranikanath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
